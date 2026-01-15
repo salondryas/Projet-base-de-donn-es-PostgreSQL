@@ -1,0 +1,5 @@
+id_reservation,id_resident,id_logement,date_debut_sejour,date_fin_sejour
+1,1,1,2026-01-01,2026-01-10
+2,2,1,2026-01-12,2026-01-20
+3,3,2,2026-01-05,2026-01-25
+4,4,3,2026-01-01,2026-01-15

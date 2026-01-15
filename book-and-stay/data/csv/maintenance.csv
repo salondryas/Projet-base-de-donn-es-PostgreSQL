@@ -1,0 +1,3 @@
+id_maintenance,type_maintenance,date_debut,date_fin,urgence,description,id_logement
+1,Plomberie,2026-01-08,2026-01-12,elevee,Fuite importante,1
+2,Electricité,2026-01-03,2026-01-04,faible,Ampoule défectueuse,3

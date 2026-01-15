@@ -1,0 +1,5 @@
+id_resident,nom,prenom,email,telephone,date_naissance
+1,Dupont,Alice,alice.dupont@mail.com,0600000001,1998-05-12
+2,Martin,Bob,bob.martin@mail.com,0600000002,1995-08-22
+3,Durand,Claire,claire.durand@mail.com,0600000003,2000-01-10
+4,Bernard,David,david.bernard@mail.com,0600000004,1997-03-18
